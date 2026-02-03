@@ -70,7 +70,7 @@
         </dependency>
 
 
-        !-- (Opcional) Para JSONPath etc. -->
+        <!-- (Opcional) Para JSONPath etc. -->
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>json-path</artifactId>
